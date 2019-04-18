@@ -1,5 +1,5 @@
-ev3duder (0.4.0ev3dev1) bionic; urgency=medium
+ev3duder (0.4.0ev3dev2) bionic; urgency=medium
 
   * initial release
 
- -- David Lechner <david@lechnology.com>  Sun, 22 Jul 2018 13:10:41 -0500
+ -- David Lechner <david@lechnology.com>  Thu, 18 Apr 2019 17:16:21 -0500
