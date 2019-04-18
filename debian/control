@@ -1,0 +1,15 @@
+Source: ev3duder
+Maintainer: David Lechner <david@lechnology.com>
+Section: misc
+Priority: optional
+Standards-Version: 4.1.4
+Build-Depends: debhelper (>=10.0.0), libudev-dev, pkg-config
+VCS-Git: https://github.com/ev3dev/ev3duder.git
+VCS-Browser: https://github.com/ev3dev/ev3duder
+
+Package: ev3duder
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: EV3 Downloader/Uploader utility
+ Implementation of the LEGO EV3's protocol over USB (HID), Bluetooth (RFCOMM)
+ and WiFi (TCP).

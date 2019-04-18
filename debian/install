@@ -1,0 +1,2 @@
+99-ev3duder.rules  /lib/udev/rules.d/
+ev3duder        /usr/bin/
